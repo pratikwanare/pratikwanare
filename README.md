@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratikwanare1992
+- 👋 Hi, I’m @pratikwanare
 
 <!---
 pratikwanare1992/pratikwanare1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
